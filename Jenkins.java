@@ -2,6 +2,6 @@ public class Jenkins
 {
 Public static void main (string [] args)
 {
-System.out.println("hello suriyqaa");
+System.out.println("hello suraiyqaa");
 }
 }
